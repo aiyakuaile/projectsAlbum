@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 group-title="pattern",pattern
+rtsp://rtspstream:vfvj020eyblLCf9J7EOhA@zephyr.rtsp.stream/pattern
+#EXTINF:-1 group-title="movie",movie
+rtsp://rtspstream:vfvj020eyblLCf9J7EOhA@zephyr.rtsp.stream/movie
+#EXTINF:-1 group-title="pattern2",pattern2
+rtsp://rtspstream:vfvj020eyblLCf9J7EOhA@zephyr.rtsp.stream/pattern2
+#EXTINF:-1 group-title="people",people
+rtsp://rtspstream:vfvj020eyblLCf9J7EOhA@zephyr.rtsp.stream/people
+#EXTINF:-1 group-title="traffic",traffic
+rtsp://rtspstream:vfvj020eyblLCf9J7EOhA@zephyr.rtsp.stream/traffic
+#EXTINF:-1 group-title="pattern",pattern
+rtsp://rtspstream:vfvj020eyblLCf9J7EOhA@zephyr.rtsp.stream/pattern
